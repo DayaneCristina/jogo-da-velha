@@ -1,6 +1,11 @@
-# Jogo da Velha em Python com Tkinter
+# Jogo da Velha em Python com Tkinter 
 
+---
+
+## Objetivo
 Este é um simples jogo da velha implementado em Python, usando a biblioteca Tkinter para criar uma interface gráfica.
+
+<br>
 
 ## 🔍 Como Rodar
 
@@ -30,8 +35,6 @@ Contribuições são bem-vindas! Se você encontrar bugs ou quiser adicionar nov
 
 <div style="display: inline_block">
   <img align="center" alt="icone-GIT" height="60" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  &nbsp;&nbsp;
-  <img align="center" alt="icone-Go" height="60" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
   &nbsp;&nbsp;
   <img align="center" alt="icone-VS-CODE" height="60" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   &nbsp;&nbsp;
